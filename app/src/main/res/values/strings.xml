@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PreWork ToDo</string>
+    <string name="add_todo_button">Add Todo Button</string>
+</resources>
